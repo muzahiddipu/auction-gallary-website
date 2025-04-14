@@ -1,0 +1,82 @@
+[
+    {
+      "id": "1",
+      "title": "Vintage Leica M3 Camera",
+      "description": "A handcrafted vintage leather bag from the 1970s.",
+      "currentBidPrice": "$2,850",
+      "timeLeft": "2 Days left",
+      "bidsCount": 12,
+      "image": "https://i.ibb.co.com/5XfwD936/Bid1-min.png",
+      "icon" : "https://i.ibb.co.com/8nx2PS9Q/heart-1.png",
+      "icons" : "https://i.ibb.co.com/3mZ9vhcq/heart.png"
+
+    }, 
+    {
+      "id": "2",
+      "title": "1965 Gibson SG Standard Electric Guitar",
+      "description": "Autographed jersey by a legendary quarterback.",
+      "currentBidPrice": "$3,550",
+      "timeLeft": "4 days left",
+      "bidsCount": 30,
+      "image": "https://i.ibb.co.com/fVjkQfVy/Bid2-min.png",
+      "icon" : "https://i.ibb.co.com/tpG171Rf/heart-1.png",
+      "icons" : "https://i.ibb.co.com/3mZ9vhcq/heart.png"
+    },
+    {
+      "id": "3",
+      "title": "Original Apple Macintosh 128K (1984)",
+      "description": "Swiss-made pocket watch in excellent condition.",
+      "currentBidPrice": "$1,200",
+      "timeLeft": "5 days left",
+      "bidsCount": 18,
+      "image": "https://i.ibb.co.com/dJpfqVsD/Bid3-min.png",
+      "icon" : "https://i.ibb.co.com/tpG171Rf/heart-1.png", 
+      "icons" : "https://i.ibb.co.com/3mZ9vhcq/heart.png"
+    },
+    {
+      "id": "4",
+      "title": "Rolex Submariner 16610",
+      "description": "Rare collaboration sneakers, never worn.",
+      "currentBidPrice": "$800",
+      "timeLeft": "3 Days left",
+      "bidsCount": 45,
+      "image": "https://i.ibb.co.com/SXnzDPGZ/Bid4-min.png",
+      "icon" : "https://i.ibb.co.com/8nx2PS9Q/heart-1.png",
+      "icons" : "https://i.ibb.co.com/3mZ9vhcq/heart.png"
+
+    },
+    {
+      "id": "5",
+      "title": "First Edition 'The Great Gatsby' by F. Scott Fitzgerald",
+      "description": "Fully working retro console with 20+ classic games.",
+      "currentBidPrice": "$3,850",
+      "timeLeft": "7 Days left",
+      "bidsCount": 27,
+      "image": "https://i.ibb.co.com/zc9Zh40/Bid6-min.png",
+      "icon" : "https://i.ibb.co.com/8nx2PS9Q/heart-1.png",
+      "icons" : "https://i.ibb.co.com/3mZ9vhcq/heart.png"
+    },
+    {
+        "id": "6",
+        "title": "Mid-Century Modern Eames Lounge Chair",
+        "description": "A set of rare vinyl records in original sleeves.",
+        "currentBidPrice": "$1,950",
+        "timeLeft": "3 Days left",
+        "bidsCount": 22,
+        "image": "https://i.ibb.co.com/FLRb7fRq/Bid5-min.png",
+        "icon" : "https://i.ibb.co.com/8nx2PS9Q/heart-1.png",
+        "icons" : "https://i.ibb.co.com/3mZ9vhcq/heart.png"
+      },
+      {
+        "id": "7",
+        "title": "Banksy Original Screen Print",
+        "description": "High-performance mountain bike, lightly used.",
+        "currentBidPrice": "$670",
+        "timeLeft": "2 Days left",
+        "bidsCount": 34,
+        "image": "https://i.ibb.co.com/SgpKNS2/Bid7-min.png",
+        "icon" : "https://i.ibb.co.com/8nx2PS9Q/heart-1.png",
+        "icons" : "https://i.ibb.co.com/3mZ9vhcq/heart.png"
+      }
+  ]
+  
