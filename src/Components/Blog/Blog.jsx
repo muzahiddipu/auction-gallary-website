@@ -1,27 +1,39 @@
-import React from 'react';
-import './Blog.css'
-const Blog = ({blog}) => {
-    return (
-        <div>
-           <table className='w-10/12 mx-auto'>
-           <tr >
-                <td className='p-5 flex gap-16  items-center'>
-                    <img className='h-25 w-25 rounded-2xl'src= {blog.image} alt="" />
-                    <p>{blog.title}</p>
-                </td>
-                <td className='flex gap-5 items-center'>
-                    <p>{blog.currentBidPrice}</p>
-                    <p>{blog.timeLeft}</p>
-                    <img className='h-8 w-8' src="https://cdn-icons-png.flaticon.com/512/3141/3141738.png" alt="" />
-                </td>
-                
-                
-                    
-                
-            </tr>
-           </table>
-        </div>
-    );
+import React, { useState } from "react";
+
+const Blog = ({ blog, handleFavorite }) => {
+  const [clicked, setClicked] = useState(false);
+
+  const handleClick = () => {
+    setClicked(!clicked);
+    handleFavorite(blog)
+  };
+
+  return (
+    <tr className="border-b hover:bg-gray-50 transition duration-150">
+      <td className="px-6 py-4 flex items-center gap-4">
+        <img
+          src={blog.image}
+          alt={blog.title}
+          className="h-14 w-14 object-cover rounded-md"
+        />
+        <span className="text-gray-800 font-medium">{blog.title}</span>
+      </td>
+      <td className="px-6 py-4 text-gray-700">${blog.currentBidPrice}</td>
+      <td className="px-6 py-4 text-gray-700">{blog.timeLeft}</td>
+      <td className="px-6 py-4">
+        <button
+          onClick={handleClick}
+          className={`text-2xl text-black hover:scale-110 transition ${
+            clicked ? "text-red-500" : "text-gray-400"
+          }`}
+        >
+          ♡
+        </button>
+      </td>
+    </tr>
+  
+  );
 };
 
 export default Blog;
+
