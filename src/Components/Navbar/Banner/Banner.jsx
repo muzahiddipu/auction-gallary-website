@@ -12,7 +12,7 @@ const Banner = () => {
           <p className='text-xl mb-6'>Discover rare collectibles, luxury goods, and vintage <br />treasures in our curated auctions</p>
             </div>
             <div>
-         <button className='btn btn-wide rounded-4xl font-bold text-base bg-white text-black'>Explore Auctions</button>
+         <button className='btn btn-wide rounded-4xl font-bold text-xl py-6  bg-white text-black'>Explore Auctions</button>
             </div>
            </div>
         </div>
