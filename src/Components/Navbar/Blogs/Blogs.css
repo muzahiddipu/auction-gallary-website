@@ -1,0 +1,32 @@
+.shrinking-gradient-line {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 3px;
+    width: 100%;
+    background: linear-gradient(to right, aqua, yellow);
+    border-radius: 2px;
+    animation: shrink-line 2s linear forwards;
+  }
+  
+  @keyframes shrink-line {
+    from {
+      width: 100%;
+    }
+    to {
+      width: 0%;
+    }
+  }
+
+  /* .shrinking-gradient-line-2 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 3px;
+    width: 100%;
+    background: linear-gradient(to right, rgb(48, 56, 168), rgb(240, 60, 247));
+    border-radius: 2px;
+    animation: shrink-line 2s linear forwards;
+  }
+   */
+  

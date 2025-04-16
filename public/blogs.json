@@ -8,7 +8,7 @@
       "bidsCount": 12,
       "image": "https://i.ibb.co.com/5XfwD936/Bid1-min.png",
       "icon" : "https://i.ibb.co.com/8nx2PS9Q/heart-1.png",
-      "icons" : "https://i.ibb.co.com/3mZ9vhcq/heart.png"
+      "ex"  : "https://i.ibb.co.com/G4j3C2Py/close-1.png"
 
     }, 
     {
@@ -20,7 +20,9 @@
       "bidsCount": 30,
       "image": "https://i.ibb.co.com/fVjkQfVy/Bid2-min.png",
       "icon" : "https://i.ibb.co.com/tpG171Rf/heart-1.png",
-      "icons" : "https://i.ibb.co.com/3mZ9vhcq/heart.png"
+      "icons" : "https://i.ibb.co.com/3mZ9vhcq/heart.png",
+      "ex"  : "https://i.ibb.co.com/G4j3C2Py/close-1.png"
+
     },
     {
       "id": "3",
@@ -31,7 +33,8 @@
       "bidsCount": 18,
       "image": "https://i.ibb.co.com/dJpfqVsD/Bid3-min.png",
       "icon" : "https://i.ibb.co.com/tpG171Rf/heart-1.png", 
-      "icons" : "https://i.ibb.co.com/3mZ9vhcq/heart.png"
+      "icons" : "https://i.ibb.co.com/3mZ9vhcq/heart.png",
+      "ex"  : "https://i.ibb.co.com/G4j3C2Py/close-1.png"
     },
     {
       "id": "4",
@@ -42,7 +45,8 @@
       "bidsCount": 45,
       "image": "https://i.ibb.co.com/SXnzDPGZ/Bid4-min.png",
       "icon" : "https://i.ibb.co.com/8nx2PS9Q/heart-1.png",
-      "icons" : "https://i.ibb.co.com/3mZ9vhcq/heart.png"
+      "icons" : "https://i.ibb.co.com/3mZ9vhcq/heart.png",
+      "ex"  : "https://i.ibb.co.com/G4j3C2Py/close-1.png"
 
     },
     {
@@ -54,7 +58,8 @@
       "bidsCount": 27,
       "image": "https://i.ibb.co.com/zc9Zh40/Bid6-min.png",
       "icon" : "https://i.ibb.co.com/8nx2PS9Q/heart-1.png",
-      "icons" : "https://i.ibb.co.com/3mZ9vhcq/heart.png"
+      "icons" : "https://i.ibb.co.com/3mZ9vhcq/heart.png",
+      "ex"  : "https://i.ibb.co.com/G4j3C2Py/close-1.png"
     },
     {
         "id": "6",
@@ -65,7 +70,8 @@
         "bidsCount": 22,
         "image": "https://i.ibb.co.com/FLRb7fRq/Bid5-min.png",
         "icon" : "https://i.ibb.co.com/8nx2PS9Q/heart-1.png",
-        "icons" : "https://i.ibb.co.com/3mZ9vhcq/heart.png"
+        "icons" : "https://i.ibb.co.com/3mZ9vhcq/heart.png",
+        "ex"  : "https://i.ibb.co.com/G4j3C2Py/close-1.png"
       },
       {
         "id": "7",
@@ -76,7 +82,8 @@
         "bidsCount": 34,
         "image": "https://i.ibb.co.com/SgpKNS2/Bid7-min.png",
         "icon" : "https://i.ibb.co.com/8nx2PS9Q/heart-1.png",
-        "icons" : "https://i.ibb.co.com/3mZ9vhcq/heart.png"
+        "icons" : "https://i.ibb.co.com/3mZ9vhcq/heart.png",
+        "ex"  : "https://i.ibb.co.com/G4j3C2Py/close-1.png"
       }
   ]
   
